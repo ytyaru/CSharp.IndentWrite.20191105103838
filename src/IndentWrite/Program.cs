@@ -1,11 +1,4 @@
-﻿using System;
-using System.IO;
-//using System.CodeDom;
-using Microsoft.CSharp;
-using System.CodeDom.Compiler;
-//using System.Reflection; // TypeAttributes
-
-namespace IndentWrite
+﻿namespace IndentWrite
 {
     class Program
     {
